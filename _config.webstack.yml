@@ -2,9 +2,9 @@ favicon: /favicon.ico
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.png
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  expanded: /images/logo_expand_dark.png
+  collapsed: /images/logo-collapsed@2x_dark.png
+  dark: /images/logo_expand.png
 
 flag:
   - name: Chinese
